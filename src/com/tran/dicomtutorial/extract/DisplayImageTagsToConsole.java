@@ -11,7 +11,7 @@ public class DisplayImageTagsToConsole {
     
     private static AttributeList list = new AttributeList();
     public static void main(String[] args) {
-        String dicomFile = "/Users/haianhtran/Documents/dicom_files/single_frame/CT-MONO2-16-brain";
+        String dicomFile = "/Users/haianhtran/eclipse-workspace/DICOMTuto/dicom_files/MR-MONO2-16-head";
         
         try {
             list.read(dicomFile);

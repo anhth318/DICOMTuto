@@ -5,7 +5,7 @@ import com.pixelmed.dicom.AttributeList;
 public class DumpDicomFileContentsToConsole {
 
 	public static void main(String[] args) {
-		String dicomFile = "/Users/haianhtran/Documents/dicom_files/single_frame/CR-MONO1-10-chest";
+		String dicomFile = "/Users/haianhtran/eclipse-workspace/DICOMTuto/dicom_files/CT-MONO2-8-abdo";
 		try {
 			AttributeList list = new AttributeList();
 			list.read(dicomFile);

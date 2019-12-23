@@ -1,0 +1,338 @@
+{
+	"0008,0000" : 
+	{
+		"Name" : "GenericGroupLength",
+		"Type" : "String",
+		"Value" : "352"
+	},
+	"0008,0008" : 
+	{
+		"Name" : "ImageType",
+		"Type" : "String",
+		"Value" : "DERIVED\\PRIMARY\\RECON TOMO\\EMISSION"
+	},
+	"0008,0014" : 
+	{
+		"Name" : "InstanceCreatorUID",
+		"Type" : "String",
+		"Value" : "2.16.840.1.113662.5.8796818449476"
+	},
+	"0008,0016" : 
+	{
+		"Name" : "SOPClassUID",
+		"Type" : "String",
+		"Value" : "1.2.840.10008.5.1.4.1.1.20"
+	},
+	"0008,0018" : 
+	{
+		"Name" : "SOPInstanceUID",
+		"Type" : "String",
+		"Value" : "2.16.840.1.113662.5.8796818449476.121423489.1.1.3101.5309511143"
+	},
+	"0008,0022" : 
+	{
+		"Name" : "AcquisitionDate",
+		"Type" : "String",
+		"Value" : "1993.11.24"
+	},
+	"0008,0023" : 
+	{
+		"Name" : "ContentDate",
+		"Type" : "String",
+		"Value" : "1995.05.30"
+	},
+	"0008,0032" : 
+	{
+		"Name" : "AcquisitionTime",
+		"Type" : "String",
+		"Value" : "09:53:00"
+	},
+	"0008,0033" : 
+	{
+		"Name" : "ContentTime",
+		"Type" : "String",
+		"Value" : "11:14:39"
+	},
+	"0008,0060" : 
+	{
+		"Name" : "Modality",
+		"Type" : "String",
+		"Value" : "NM"
+	},
+	"0008,0070" : 
+	{
+		"Name" : "Manufacturer",
+		"Type" : "String",
+		"Value" : "ACME Products"
+	},
+	"0008,0080" : 
+	{
+		"Name" : "InstitutionName",
+		"Type" : "String",
+		"Value" : "Community Hospital"
+	},
+	"0008,0081" : 
+	{
+		"Name" : "InstitutionAddress",
+		"Type" : "String",
+		"Value" : "Anytown, USA"
+	},
+	"0008,1090" : 
+	{
+		"Name" : "ManufacturerModelName",
+		"Type" : "String",
+		"Value" : "P3000"
+	},
+	"0010,0000" : 
+	{
+		"Name" : "GenericGroupLength",
+		"Type" : "String",
+		"Value" : "18"
+	},
+	"0010,0010" : 
+	{
+		"Name" : "PatientName",
+		"Type" : "String",
+		"Value" : "Anonymized"
+	},
+	"0018,0000" : 
+	{
+		"Name" : "GenericGroupLength",
+		"Type" : "String",
+		"Value" : "116"
+	},
+	"0018,0015" : 
+	{
+		"Name" : "BodyPartExamined",
+		"Type" : "String",
+		"Value" : "HEART"
+	},
+	"0018,0050" : 
+	{
+		"Name" : "SliceThickness",
+		"Type" : "String",
+		"Value" : "6.231669"
+	},
+	"0018,0070" : 
+	{
+		"Name" : "CountsAccumulated",
+		"Type" : "String",
+		"Value" : "0"
+	},
+	"0018,0071" : 
+	{
+		"Name" : "AcquisitionTerminationCondition",
+		"Type" : "String",
+		"Value" : "TIME"
+	},
+	"0018,0088" : 
+	{
+		"Name" : "SpacingBetweenSlices",
+		"Type" : "String",
+		"Value" : "6.231669"
+	},
+	"0018,1000" : 
+	{
+		"Name" : "DeviceSerialNumber",
+		"Type" : "String",
+		"Value" : "154"
+	},
+	"0018,1020" : 
+	{
+		"Name" : "SoftwareVersions",
+		"Type" : "String",
+		"Value" : "6.1.0 1.0"
+	},
+	"0018,5020" : 
+	{
+		"Name" : "ProcessingFunction",
+		"Type" : "String",
+		"Value" : "Wnr/Ramp/"
+	},
+	"0020,0000" : 
+	{
+		"Name" : "GenericGroupLength",
+		"Type" : "String",
+		"Value" : "146"
+	},
+	"0020,000d" : 
+	{
+		"Name" : "StudyInstanceUID",
+		"Type" : "String",
+		"Value" : "2.16.840.1.113662.5.8796818449476.121423489.1"
+	},
+	"0020,000e" : 
+	{
+		"Name" : "SeriesInstanceUID",
+		"Type" : "String",
+		"Value" : "2.16.840.1.113662.5.8796818449476.121423489.1.1.3101.5309511143"
+	},
+	"0020,0011" : 
+	{
+		"Name" : "SeriesNumber",
+		"Type" : "String",
+		"Value" : "1"
+	},
+	"0020,0013" : 
+	{
+		"Name" : "InstanceNumber",
+		"Type" : "String",
+		"Value" : "1"
+	},
+	"0028,0000" : 
+	{
+		"Name" : "GenericGroupLength",
+		"Type" : "String",
+		"Value" : "178"
+	},
+	"0028,0002" : 
+	{
+		"Name" : "SamplesPerPixel",
+		"Type" : "String",
+		"Value" : "1"
+	},
+	"0028,0004" : 
+	{
+		"Name" : "PhotometricInterpretation",
+		"Type" : "String",
+		"Value" : "MONOCHROME2"
+	},
+	"0028,0008" : 
+	{
+		"Name" : "NumberOfFrames",
+		"Type" : "String",
+		"Value" : "13"
+	},
+	"0028,0009" : 
+	{
+		"Name" : "FrameIncrementPointer",
+		"Type" : "String",
+		"Value" : "0054,0080"
+	},
+	"0028,0010" : 
+	{
+		"Name" : "Rows",
+		"Type" : "String",
+		"Value" : "64"
+	},
+	"0028,0011" : 
+	{
+		"Name" : "Columns",
+		"Type" : "String",
+		"Value" : "64"
+	},
+	"0028,0030" : 
+	{
+		"Name" : "PixelSpacing",
+		"Type" : "String",
+		"Value" : "3.11583\\3.11583"
+	},
+	"0028,0100" : 
+	{
+		"Name" : "BitsAllocated",
+		"Type" : "String",
+		"Value" : "16"
+	},
+	"0028,0101" : 
+	{
+		"Name" : "BitsStored",
+		"Type" : "String",
+		"Value" : "16"
+	},
+	"0028,0102" : 
+	{
+		"Name" : "HighBit",
+		"Type" : "String",
+		"Value" : "15"
+	},
+	"0028,0103" : 
+	{
+		"Name" : "PixelRepresentation",
+		"Type" : "String",
+		"Value" : "0"
+	},
+	"0028,0106" : 
+	{
+		"Name" : "SmallestImagePixelValue",
+		"Type" : "String",
+		"Value" : "0"
+	},
+	"0028,0107" : 
+	{
+		"Name" : "LargestImagePixelValue",
+		"Type" : "String",
+		"Value" : "141"
+	},
+	"0028,1050" : 
+	{
+		"Name" : "WindowCenter",
+		"Type" : "String",
+		"Value" : "70"
+	},
+	"0028,1051" : 
+	{
+		"Name" : "WindowWidth",
+		"Type" : "String",
+		"Value" : "141"
+	},
+	"0054,0000" : 
+	{
+		"Name" : "GenericGroupLength",
+		"Type" : "String",
+		"Value" : "114"
+	},
+	"0054,0011" : 
+	{
+		"Name" : "NumberOfEnergyWindows",
+		"Type" : "String",
+		"Value" : "1"
+	},
+	"0054,0021" : 
+	{
+		"Name" : "NumberOfDetectors",
+		"Type" : "String",
+		"Value" : "1"
+	},
+	"0054,0051" : 
+	{
+		"Name" : "NumberOfRotations",
+		"Type" : "String",
+		"Value" : "1"
+	},
+	"0054,0080" : 
+	{
+		"Name" : "SliceVector",
+		"Type" : "String",
+		"Value" : "1\\2\\3\\4\\5\\6\\7\\8\\9\\10\\11\\12\\13"
+	},
+	"0054,0081" : 
+	{
+		"Name" : "NumberOfSlices",
+		"Type" : "String",
+		"Value" : "13"
+	},
+	"0054,0202" : 
+	{
+		"Name" : "TypeOfDetectorMotion",
+		"Type" : "String",
+		"Value" : "STEP AND SHOOT"
+	},
+	"0054,0400" : 
+	{
+		"Name" : "ImageID",
+		"Type" : "String",
+		"Value" : "H Long Ax"
+	},
+	"7fe0,0000" : 
+	{
+		"Name" : "GenericGroupLength",
+		"Type" : "String",
+		"Value" : "106508"
+	},
+	"7fe0,0010" : 
+	{
+		"Name" : "PixelData",
+		"Type" : "Null",
+		"Value" : null
+	}
+}

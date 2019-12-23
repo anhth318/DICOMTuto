@@ -10,7 +10,7 @@ public class DumpDicomTagsToConsole {
 	private static AttributeList list = new AttributeList();
 
 	public static void main(String[] args) {
-		String dicomFile = "/Users/haianhtran/Documents/sample_images/ct_chest1.dcm";
+		String dicomFile = "/Users/haianhtran/eclipse-workspace/DICOMTuto/dicom_files/CT-MONO2-8-abdo";
 		try {
 			list.read(dicomFile);
 

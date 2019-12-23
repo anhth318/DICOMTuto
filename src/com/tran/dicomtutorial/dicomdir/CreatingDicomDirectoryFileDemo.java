@@ -8,7 +8,7 @@ public class CreatingDicomDirectoryFileDemo {
     
 public static void main(String[] args) {
         
-        String dicomRootDirectory = "/Users/haianhtran/Documents/sample_images";
+        String dicomRootDirectory = "/Users/haianhtran/eclipse-workspace/DICOMTuto/dicom_files";
         String dicomDirectoryFileName = dicomRootDirectory + File.separatorChar + "SampleDICOMDIR";
         
         //These are the image files that we will include as file-set

@@ -6,13 +6,13 @@ import com.pixelmed.dicom.ImageToDicom;
 public class CreateADicomFile {
     
     public static void main(String[] args) {
-        String scJpegFilePath = "/Users/haianhtran/Documents/sample_images/ct_chest.jpg";
-        String newDicomFile = "/Users/haianhtran/Documents/sample_images/ct_chest1.dcm";
+        String scJpegFilePath = "/Users/haianhtran/eclipse-workspace/DICOMTuto/ScanImageFiles/chest-ct1.jpg";
+        String newDicomFile = "/Users/haianhtran/eclipse-workspace/DICOMTuto/ScanImageFiles/OutputDICOMfiles/chest-ct1.dcm";
         try {
             //generate the DICOM file from the jpeg file and the other attributes supplied
             new ImageToDicom(scJpegFilePath, //path to existing JPEG image 
                             newDicomFile, //output DICOM file with full path
-                            "Rex Dubois", //name of patient
+                            "Peter Pan", //name of patient
                             "12121221", //patient id
                             "2323232322", //study id
                             "3232323232", //series number

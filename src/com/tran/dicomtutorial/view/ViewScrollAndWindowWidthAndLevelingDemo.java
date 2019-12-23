@@ -7,7 +7,7 @@ import com.pixelmed.display.SourceImage;
 public class ViewScrollAndWindowWidthAndLevelingDemo {
     
     public static void main(String[] args) {
-        String dicomInputFile = "/Users/haianhtran/Documents/dicom_files/multi_frames/XA-MONO2-8-12x-catheter";
+        String dicomInputFile = "/Users/haianhtran/eclipse-workspace/DICOMTuto/dicom_files/MR-MONO2-8-16x-heart";
         try {
             JFrame frame = new JFrame();
             SourceImage sImg = new SourceImage(dicomInputFile);
