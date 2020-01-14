@@ -7,7 +7,7 @@ public class VisualizeDicomDirectoryDetailsDemo {
     
     public static void main(String[] args) {
         
-        String dicomDirectoryFileName = "/Users/haianhtran/Documents/compsamples_refanddir/DICOMDIR";
+        String dicomDirectoryFileName = "/Users/haianhtran/eclipse-workspace/DICOMTuto/dicom_files/SampleDICOMDIR";
         try {
             AttributeList list = new AttributeList();
             list.read(dicomDirectoryFileName);

@@ -5,7 +5,7 @@
 
   // The logical name of this instance of Orthanc. This one is
   // displayed in Orthanc Explorer and at the URI "/system".
-  "Name" : "MyOrthanc",
+  "Name" : "MyOrthancMac",
 
   // Path to the directory that holds the heavyweight files
   // (i.e. the raw DICOM instances)
@@ -146,6 +146,8 @@
      * command line "storescp 2000".
      **/
     // "sample" : [ "STORESCP", "localhost", 2000 ]
+    "JavaClient" : [ "JAVACLIENT", "localhost", 4242 ],
+    "OrthancWindows" : [ "ORTHANCWINDOWS", "192.168.56.102", 4242 ]
 
     /**
      * A fourth parameter is available to enable patches for a
